@@ -9,8 +9,6 @@
  💾  CAI - Assistente Técnico de TI - SENAI de Informática <br>
 </div>
 
-<br>
-
 <div>
   <a href="https://github.com/arielmn22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielmn22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
