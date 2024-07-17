@@ -20,12 +20,10 @@
 </div>
 <div>
   <h2>🎓 Formação Acadêmica 🎓</h2>
- 💡   Técnico em Desenvolvimento de Sistemas - SENAI de Informática <br>
+ 🚀  Técnico em Desenvolvimento de Sistemas - SENAI de Informática <br>
  🖥️  Técnico em Redes de Computadores - SENAI de Informática <br>
- 🖥️  Curso de Aprendizagem Industrial em Assistente Técnico de TI <br>
+ 🖥️  CAI - Assistente Técnico de TI <br>
  💻  Bacharelando em Sistemas de Informação - Universidade Paulista (UNIP) <br>
- ⚙️  Mestre em Engenharia de Produção - Universidade Paulista (UNIP) <br>
- 🩺  Doutorando em Medicina - Universidade de São Paulo (USP) <br>
 </div>
   
   ##
