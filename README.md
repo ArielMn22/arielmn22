@@ -1,11 +1,11 @@
-## Hi everyone 🕸️!! Ariel Paixão por aqui! 
+## Hi everyone 🕸️! Ariel Paixão por aqui! 
 ### Procuranto sempre novas e melhores formas de realizar as tarefas do dia-a-dia!
 <div>
   <h2>🎓 Formação Acadêmica 🎓</h2>
+ 💡  Bacharelando em Sistemas de Informação - Faculdade Impacta <br>
  🚀  Técnico em Desenvolvimento de Sistemas - SENAI de Informática <br>
- 🚀  Técnico em Redes de Computadores - SENAI de Informática <br>
- 🚀  CAI - Assistente Técnico de TI <br>
- 🚀  Bacharelando em Sistemas de Informação - Faculdade Impacta <br>
+ 🖥️  Técnico em Redes de Computadores - SENAI de Informática <br>
+ 💾  CAI - Assistente Técnico de TI <br>
 </div>
 
 <br>
