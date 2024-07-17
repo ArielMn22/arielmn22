@@ -1,4 +1,5 @@
-## Hi everyone 🕸️! Ariel Paixão por aqui! 
+# Hi everyone 🕸️! Ariel Paixão por aqui! 
+> Líder Técnico, Instrutor do SENAI e Desenvolvedor
 ### Procuranto sempre novas e melhores formas de realizar as tarefas do dia-a-dia!
 <div>
   <h2>🎓 Formação Acadêmica 🎓</h2>
