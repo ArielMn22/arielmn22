@@ -18,6 +18,15 @@
   <img align="center" alt="Ariel-Less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Ariel-Less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
 </div>
+<div>
+  <h2>🎓 Formação Acadêmica 🎓</h2>
+ 💡   Técnico em Desenvolvimento de Sistemas - SENAI de Informática <br>
+ 🖥️  Técnico em Redes de Computadores - SENAI de Informática <br>
+ 🖥️  Curso de Aprendizagem Industrial em Assistente Técnico de TI <br>
+ 💻  Bacharelando em Sistemas de Informação - Universidade Paulista (UNIP) <br>
+ ⚙️  Mestre em Engenharia de Produção - Universidade Paulista (UNIP) <br>
+ 🩺  Doutorando em Medicina - Universidade de São Paulo (USP) <br>
+</div>
   
   ##
  
