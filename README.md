@@ -3,9 +3,9 @@
 <div>
   <h2>🎓 Formação Acadêmica 🎓</h2>
  🚀  Técnico em Desenvolvimento de Sistemas - SENAI de Informática <br>
- 🖥️  Técnico em Redes de Computadores - SENAI de Informática <br>
- 🖥️  CAI - Assistente Técnico de TI <br>
- 💻  Bacharelando em Sistemas de Informação - Faculdade Impacta <br>
+ 🚀  Técnico em Redes de Computadores - SENAI de Informática <br>
+ 🚀  CAI - Assistente Técnico de TI <br>
+ 🚀  Bacharelando em Sistemas de Informação - Faculdade Impacta <br>
 </div>
 
 <br>
