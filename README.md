@@ -1,6 +1,13 @@
 ## Hi everyone!! Ariel Paixão por aqui! 
 ### Procuranto sempre novas e melhores formas de realizar as tarefas do dia-a-dia!
 <div>
+  <h2>🎓 Formação Acadêmica 🎓</h2>
+ 🚀  Técnico em Desenvolvimento de Sistemas - SENAI de Informática <br>
+ 🖥️  Técnico em Redes de Computadores - SENAI de Informática <br>
+ 🖥️  CAI - Assistente Técnico de TI <br>
+ 💻  Bacharelando em Sistemas de Informação - Faculdade Impacta <br>
+</div>
+<div>
   <a href="https://github.com/arielmn22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielmn22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielmn22&layout=compact&langs_count=7&theme=dark"/>
@@ -17,13 +24,6 @@
   <img align="center" alt="Ariel-Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg">
   <img align="center" alt="Ariel-Less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Ariel-Less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
-</div>
-<div>
-  <h2>🎓 Formação Acadêmica 🎓</h2>
- 🚀  Técnico em Desenvolvimento de Sistemas - SENAI de Informática <br>
- 🖥️  Técnico em Redes de Computadores - SENAI de Informática <br>
- 🖥️  CAI - Assistente Técnico de TI <br>
- 💻  Bacharelando em Sistemas de Informação - Universidade Paulista (UNIP) <br>
 </div>
   
   ##
